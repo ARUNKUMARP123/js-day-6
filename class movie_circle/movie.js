@@ -1,5 +1,5 @@
 class movie{
-    constructor(movie,studio,rating)
+    constructor(movie,studio,rating="PG")
     {
         this.movie=movie;
         this.studio=studio;
